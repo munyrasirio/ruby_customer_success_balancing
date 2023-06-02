@@ -2,7 +2,6 @@
 
 <p align="center">
 <img src='https://img.shields.io/github/languages/count/munyrasirio/ruby_customer_success_balancing?style=for-the-badge'>
-<img src='https://img.shields.io/github/languages/code-size/munyrasirio/ruby_customer_success_balancing?style=for-the-badge'>
 <img src="https://img.shields.io/github/last-commit/munyrasirio/ruby_customer_success_balancing?style=for-the-badge" alt="Last Commit" />
 <img src="https://img.shields.io/github/license/munyrasirio/ruby_customer_success_balancing?style=for-the-badge" alt="License" />
 </p>
