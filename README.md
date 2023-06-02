@@ -21,7 +21,7 @@ But you can learn more about [conventional commits](https://www.conventionalcomm
 Install [Ruby](https://www.ruby-lang.org/en/downloads/). For this project was used the `3.2.2v`.
 Simply follow the instructions in the documentation. Pay attention to the operating system and version.
 
-After that, to validate the test scenarios, install Minitest (`5.18.0v`):
+After that, to validate the test scenarios, install [Minitest](https://rubygems.org/gems/minitest/versions/5.8.4?locale=pt-BR) (`5.18.0v`):
 
 ```bash
 $ gem install minitest
